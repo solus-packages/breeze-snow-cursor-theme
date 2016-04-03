@@ -1,0 +1,14 @@
+name       : breeze-snow-cursor-theme
+version    : 5.6.1
+release    : 1
+source     :
+    - http://stroblindustries.com/solus-tarballs/breeze-snow-cursor-theme-5.6.1.tar.xz : 853da3d3a6ccc187ced350dc4d2741764537ac10a0086b26be1078b7ec29f65e
+license    : GPL-2.0
+component  : desktop
+summary    : Breeze Snow cursor theme
+description: |
+    Breeze Snow cursor theme
+install    : |
+    cursorDir=$installdir/usr/share/icons/breeze-snow-cursor
+    install -dm755 $cursorDir/
+    cp -R $srcdir/* $cursorDir/
