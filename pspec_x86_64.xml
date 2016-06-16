@@ -3,9 +3,10 @@
         <Name>breeze-snow-cursor-theme</Name>
         <Packager>
             <Name>Joshua Strobl</Name>
-            <Email>joshua.strobl@outlook.com</Email>
+            <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>GPL-2.0</License>
+        <PartOf>desktop.theme</PartOf>
         <Summary xml:lang="en">Breeze Snow cursor theme</Summary>
         <Description xml:lang="en">Breeze Snow cursor theme
 </Description>
@@ -16,18 +17,119 @@
         <Summary xml:lang="en">Breeze Snow cursor theme</Summary>
         <Description xml:lang="en">Breeze Snow cursor theme
 </Description>
-        <PartOf>desktop</PartOf>
+        <PartOf>desktop.theme</PartOf>
         <Files>
-            <Path fileType="data">/usr/share/icons</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/00000000000000020006000e7e9ffc3f</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/00008160000006810000408080010102</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/03b6e0fcb3499374a867c041f52298f0</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/1081e37283d90000800003c07f3ef6bf</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/3085a0e285430894940527032f8b26df</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/3ecb610c1bf2410f44200f48c40d3599</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/4498f0e0c1937ffe01fd06f973665830</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/6407b0e94181790501fd1e167b474872</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/640fb0e74195791501fd1ed57b41487f</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/9081237383d90e509aa00f00170e968f</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/9d800788f1b08800ae810202380a0822</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/a2a266d0498c3104214a47bd64ab0fc8</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/alias</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/all-scroll</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/b66166c04f8c3109214a4fbd64a50fc8</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/bottom_left_corner</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/bottom_right_corner</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/bottom_side</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/cell</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/center_ptr</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/circle</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/closedhand</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/col-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/color-picker</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/context-menu</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/copy</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/cross</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/crossed_circle</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/crosshair</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/d9ce0ab605698f320427677b458ad60b</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/default</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/dnd-copy</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/dnd-move</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/dnd-no-drop</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/dnd-none</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/down-arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/draft</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/e-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/e29285e634086352946a0e7090d73106</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/fcf21c00b30f7e3f83fe0dfd12e71cff</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/fleur</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/forbidden</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/h_double_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/half-busy</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/hand1</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/hand2</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/help</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/ibeam</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/left-arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/left_ptr</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/left_ptr_help</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/left_ptr_watch</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/left_side</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/link</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/move</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/no-drop</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/not-allowed</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/openhand</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pencil</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pirate</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/plus</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pointer</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pointing_hand</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/progress</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/question_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/right-arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/right_ptr</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/right_side</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/row-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/s-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/sb_h_double_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/sb_v_double_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-bdiag</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-fdiag</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-hor</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-ver</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_all</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_bdiag</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_fdiag</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_hor</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_ver</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/split_h</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/split_v</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/text</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/top_left_corner</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/top_right_corner</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/top_side</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/up-arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/v_double_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/vertical-text</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/w-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/wait</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/watch</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/wayland-cursor</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/whats_this</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/x-cursor</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/xterm</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/zoom-in</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/zoom-out</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/index.theme</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2016-04-03</Date>
+        <Update release="2">
+            <Date>2016-06-16</Date>
             <Version>5.6.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Joshua Strobl</Name>
-            <Email>joshua.strobl@outlook.com</Email>
+            <Email>joshua@stroblindustries.com</Email>
         </Update>
     </History>
 </PISI>
