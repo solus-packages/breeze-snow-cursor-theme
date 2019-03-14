@@ -2,8 +2,8 @@
     <Source>
         <Name>breeze-snow-cursor-theme</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>desktop.theme</PartOf>
@@ -35,6 +35,7 @@
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/a2a266d0498c3104214a47bd64ab0fc8</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/alias</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/all-scroll</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/arrow</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/b66166c04f8c3109214a4fbd64a50fc8</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/bottom_left_corner</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/bottom_right_corner</Path>
@@ -77,8 +78,10 @@
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/link</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/move</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/n-resize</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/ne-resize</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/no-drop</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/not-allowed</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/nw-resize</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/openhand</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pencil</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/pirate</Path>
@@ -94,6 +97,7 @@
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/s-resize</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/sb_h_double_arrow</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/sb_v_double_arrow</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/se-resize</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-bdiag</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-fdiag</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size-hor</Path>
@@ -105,6 +109,7 @@
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/size_ver</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/split_h</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/split_v</Path>
+            <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/sw-resize</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/text</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/top_left_arrow</Path>
             <Path fileType="data">/usr/share/icons/breeze-snow-cursor/cursors/top_left_corner</Path>
@@ -126,12 +131,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2017-10-14</Date>
-            <Version>5.11.0</Version>
+        <Update release="4">
+            <Date>2019-03-11</Date>
+            <Version>5.15.2</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>

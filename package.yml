@@ -1,8 +1,8 @@
 name       : breeze-snow-cursor-theme
-version    : 5.11.0
-release    : 3
+version    : 5.15.2
+release    : 4
 source     :
-    - https://download.kde.org/stable/plasma/5.11.0/breeze-5.11.0.tar.xz : d46449e0845f46e5e4ba6a7e0976701e08c16c271e3bfd189a2c56d7e9370180
+    - https://cdn.download.kde.org/stable/plasma/5.15.2/breeze-5.15.2.tar.xz : 682bc6c7669f5440b64157e57b2b1a157234dca1c7e721874a52bb1117bb4e54
 license    : GPL-2.0
 component  : desktop.theme
 summary    : Breeze Snow cursor theme
