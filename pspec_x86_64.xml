@@ -10,7 +10,7 @@
         <Summary xml:lang="en">Breeze Snow cursor theme</Summary>
         <Description xml:lang="en">Breeze Snow cursor theme
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>breeze-snow-cursor-theme</Name>
@@ -131,9 +131,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2019-03-14</Date>
-            <Version>5.15.3</Version>
+        <Update release="6">
+            <Date>2019-04-13</Date>
+            <Version>5.15.4.1</Version>
             <Comment>Packaging update</Comment>
             <Name>F. von Gellhorn</Name>
             <Email>flinux@vongellhorn.ch</Email>
