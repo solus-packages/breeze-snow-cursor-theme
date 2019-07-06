@@ -131,9 +131,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="9">
-            <Date>2019-06-23</Date>
-            <Version>5.16.1</Version>
+        <Update release="10">
+            <Date>2019-06-25</Date>
+            <Version>5.16.2</Version>
             <Comment>Packaging update</Comment>
             <Name>F. von Gellhorn</Name>
             <Email>flinux@vongellhorn.ch</Email>
